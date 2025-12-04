@@ -19,3 +19,4 @@ cd binary-calculator
 
 # Запустить программу
 python3 binary_calculator.py
+# binary_calculator
